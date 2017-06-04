@@ -1,0 +1,10 @@
+.ikonka::before {
+    font-family: FontAwesome;
+    content: "\f099";
+    
+}
+
+.list{
+    
+     list-style-type: none; 
+}
