@@ -1,0 +1,22 @@
+.container{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 1s ease-in; 
+}
+
+#twitter{
+    color: white;
+    font-size: 70px;
+  
+}
+
+.container:hover{
+    background-color: red;
+    border: 2px solid black;
+   transform: rotateY(180deg);
+}
