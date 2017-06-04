@@ -1,0 +1,10 @@
+.lin{
+    display: block;
+    padding: 1px;
+}
+.lin[href$="doc"]{
+    color: aqua;
+}
+.lin[href$="docx"]{
+    color: red;
+}
