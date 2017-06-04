@@ -1,0 +1,10 @@
+
+.user-name{
+    width: 500px;
+    height: 50px;
+    color: green;
+    border: 3px solid green;
+}
+.user-name::placeholder {
+    color: red; 
+}
